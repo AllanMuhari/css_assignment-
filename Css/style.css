@@ -1,9 +1,9 @@
 * {
+    margin: 0;
+    padding: 0;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     letter-spacing: 1.5px;
     font-weight: 400;
-    margin: 0;
-    padding: 0;
 }
 
 .card {
@@ -36,7 +36,7 @@
 
 .score-number {
     background: linear-gradient(to bottom, #3803b4, #452ce71e);
-    clip-path: circle(36.1% at 50% 50%);
+    clip-path: circle(35.1% at 50% 50%);
     padding: 4rem;
 }
 

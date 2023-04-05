@@ -20,7 +20,7 @@
     text-align: center;
     background: linear-gradient(to top, #3731f1, #4825C8ff);
     background-repeat: no-repeat;
-    color: var(--snow);
+    color: white;
     padding: 2rem;
     border-radius: 24px;
     box-shadow: 0 2rem 2rem 0 rgba(0, 0, 0, .1);

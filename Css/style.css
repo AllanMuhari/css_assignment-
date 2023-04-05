@@ -1,27 +1,4 @@
 
-:root {
-    --palatinate-blue: #533AF3ff;
-    --palatinate-blue-2: #4442C6ff;
-    --chrysler-blue: #4825C8ff;
-    --delft-blue: #313B57ff;
-    --palatinate-blue-3: #442FE3ff;
-    --white-5: #FFFFFFff;
-    --light-coral: #E68F8Dff;
-    --palatinate-blue: #533AF3ff;
-    --lavender-web: #E2E6FAff;
-    --chrysler-blue: #4825C8ff;
-    --medium-slate-blue: #786ED3ff;
-    --chrysler-blue-2: #4628D4ff;
-    --savoy-blue: #515BA9ff;
-    --palatinate-blue-2: #4442C6ff;
-    --indian-red: #D05F63ff;
-    --delft-blue: #313B57ff;
-    --cambridge-blue: #7ABCABff;
-    --floral-white: #FFFBF2ff;
-    --palatinate-blue: #4935F2ff;
-
-    --shadow: 0 2rem 2rem 0 rgba(0, 0, 0, .1);
-}
 
 * {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -36,19 +13,19 @@
     max-width: 600px;
     margin: auto;
     margin-top: 9%;
-    box-shadow: var(--shadow);
+    box-shadow: 0 2rem 2rem 0 rgba(0, 0, 0, .1);
     border-radius: 24px;
     background: white;
 }
 
 .score {
     text-align: center;
-    background: linear-gradient(to top, #322de9, #4825C8ff);
+    background: linear-gradient(to top, #3731f1, #4825C8ff);
     background-repeat: no-repeat;
     color: var(--snow);
     padding: 2rem;
     border-radius: 24px;
-    box-shadow: var(--shadow);
+    box-shadow: 0 2rem 2rem 0 rgba(0, 0, 0, .1);
     width: 240px;
 }
 

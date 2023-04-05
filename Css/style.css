@@ -156,10 +156,6 @@
     color: #3ccaa9;
 }
 
-.visual {
-    background: white;
-    color: #3b4cdd;
-}
 .icon {
     padding-right: 9px;
 }
@@ -178,6 +174,4 @@
     transition: .4s all ease;
 }
 
-.btn:hover {
-    box-shadow: 0 1rem 1rem 0 rgba(0, 0, 0, .2);
-}
+

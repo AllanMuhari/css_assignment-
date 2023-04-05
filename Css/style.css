@@ -19,8 +19,6 @@
     --cambridge-blue: #7ABCABff;
     --floral-white: #FFFBF2ff;
     --palatinate-blue: #4935F2ff;
-
-    --shadow: 0 2rem 2rem 0 rgba(0, 0, 0, .1);
 }
 
 * {
@@ -171,7 +169,6 @@
     font-weight: 600;
     margin-top: .3rem;
     cursor: pointer;
-    transition: .4s all ease;
 }
 
 

@@ -37,7 +37,7 @@
     padding: 0;
 }
 
-.card-container {
+.card {
     display: flex;
     max-width: 600px;
     margin: auto;
@@ -91,7 +91,7 @@
     margin-bottom: .3rem;
 }
 
-.rating-info {
+.rate-info {
     font-size: .9rem;
     max-width: 300px;
     margin: auto;
